@@ -1,3 +1,10 @@
+//
+//  HeaderBar.swift
+//  LittleLemonAppMalek
+//
+//  Created by Ben Lakhdher Malek on 04.05.2023.
+//
+
 import SwiftUI
 
 struct Header: View {
